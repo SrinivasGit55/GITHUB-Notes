@@ -20,6 +20,7 @@ Each day file follows a simple pattern:
 - Interview points
 - Practice notes
 
+
 ## Notes
 
 Use the daily files for detailed study and the cheat sheet for quick revision before interviews.
