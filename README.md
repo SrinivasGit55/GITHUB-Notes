@@ -20,10 +20,6 @@ Each day file follows a simple pattern:
 - Interview points
 - Practice notes
 
-## Interview Cheat Sheet
-
-- [Git Interview Cheat Sheet](./Git-Interview-Cheat-Sheet.md)
-
 ## Notes
 
 Use the daily files for detailed study and the cheat sheet for quick revision before interviews.
