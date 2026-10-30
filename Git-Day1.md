@@ -152,3 +152,6 @@ git log -2 --oneline  # last 2 commits in single line
 ---
 
 This was the Git Day 1 learning session. Keep practicing the commands to become comfortable with version control.
+
+
+
